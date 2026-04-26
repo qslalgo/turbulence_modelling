@@ -9,15 +9,10 @@ Compare accuracy vs computational cost
 Validate simulations against reference/analytical data
 
 ## Models Used
-k–ε (standard / realizable) 
-k–ω SST
+k–ε (standard / realizable), k–ω SST
 
 ## Cases Studied (examples)
-Channel flow
-Flow over a flat plate
-Backward-facing step
-Pipe flow
-Duct
+Channel flow, flow over a flat plate, backward-facing step, pipe flow, duct flow
 
 ## Methodology
 Geometry and mesh generation in ANSYS
